@@ -19,7 +19,7 @@ html{
 /** name **/
 
 .Name {
-	color: #6448c9;
+	color: red;
 	font-size: 23px;
 	text-align: center;
 	font-family: sans-serif;
@@ -37,7 +37,7 @@ html{
 /* projects head */
 
 .projects h1{
-	color: #6448c9;
+	color: red;
 	text-align: center;
 	font-size: 28px;
 	font-family: sans-serif;
@@ -54,7 +54,7 @@ html{
 }
   
 .procon{
-	color:#6448c9;
+	color: red;
 }
   
 .iconp{
@@ -78,7 +78,7 @@ html{
 /** Contact **/
 
 .Contact h1{
-	color: #6448c9;
+	color: red;
 	text-align: center;
 	font-size: 28px;
 	font-family: sans-serif;
@@ -99,7 +99,7 @@ html{
 }
   
 .ico{
-	border: 2px solid #6448c9;
+	border: 2px solid red;
 	border-radius: 50%;
 	display: inline-block;
 	width: 20px;
