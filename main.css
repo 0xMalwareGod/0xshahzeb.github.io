@@ -33,35 +33,6 @@ html{
   font-family: sans-serif;
 }
 
-.Work h1 {
-  position: relative;
-  display: inline-block;
-}
-
-.Work h1::after {
-  content: '';
-  background-image: url(https://i.imgur.com/XZ5gCsM.gif);
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%; /* Set the width to cover the entire text */
-  height: 100%; /* Set the height to cover the entire text */
-  z-index: -1;
-  pointer-events: none;
-  mix-blend-mode: overlay; /* This can help blend the text with the background */
-  opacity: 0.7; /* Adjust the opacity as needed */
-}
-
-.Work h1,
-.Work h2 {
-  margin: 0; /* Remove default margin for better alignment */
-  font-weight: bold;
-}
-
-.Work h2 {
-  font-size: 16px; /* Adjust the font size for the subheading */
-}
-
 /* projects head */
 
 .projects h1{
